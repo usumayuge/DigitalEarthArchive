@@ -30,9 +30,11 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Placemark>
-		<name>みたままつり</name>
-		<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/449e026508ad5bab604330d0cf514f83.jpg?size=pict_nocut1040_1040"/>
+	<Folder>
+		<name>無題 - フォルダ</name>
+		<Placemark>
+			<name>みたままつり</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/449e026508ad5bab604330d0cf514f83.jpg?size=pict_nocut1040_1040"/>
 <br>
 ●イベント名：みたままつり
 <br>
@@ -43,20 +45,506 @@
 ●時間：6:00～21:30
 　<br>
 ●問合せ：靖国神社社務所]]></description>
-		<LookAt>
-			<longitude>139.7438493401243</longitude>
-			<latitude>35.69413664312923</latitude>
-			<altitude>0</altitude>
-			<heading>2.247742521155808e-09</heading>
-			<tilt>0</tilt>
-			<range>1000.821751975005</range>
-			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-		</LookAt>
-		<styleUrl>#m_ylw-pushpin</styleUrl>
-		<Point>
-			<gx:drawOrder>1</gx:drawOrder>
-			<coordinates>139.7438493401244,35.69413664312924,0</coordinates>
-		</Point>
-	</Placemark>
+			<LookAt>
+				<longitude>139.7438493401243</longitude>
+				<latitude>35.69413664312923</latitude>
+				<altitude>0</altitude>
+				<heading>2.247742521155808e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.821751975005</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7438493401244,35.69413664312924,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>七夕祈願祭</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/938cfe424f219064cfb1ea468becc1f2.jpg?size=pict_nocut1040_1040"/>
+<br>
+●イベント名：七夕祈願祭
+<br>
+●場所：東京大神宮
+　<br>
+●日程：2016年7月7日
+<br>
+●時間：未定
+　<br>
+●問合せ：東京大神宮 社務所
+<br>
+●電話：03-3262-3566]]></description>
+			<LookAt>
+				<longitude>139.7468813057428</longitude>
+				<latitude>35.69997959447132</latitude>
+				<altitude>0</altitude>
+				<heading>3.351185079014671e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000036958704</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7468813057428,35.69997959447132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>千代田区納涼の夕べ</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/3549ab7a00539d769ec8cff6fa6bdfa0.jpg?size=pict_nocut1040_1040"/>
+<br>
+●住所：千代田区三番町2番地先千鳥ケ淵緑道内千鳥ケ淵ボート場
+<br>
+●開催日：2016年7月15日(金) 
+<br>
+●時間：18:45～
+<br>
+●荒天時：雨天中止
+<br>
+●最寄駅
+　千鳥ヶ淵緑道：営団地下鉄東西線・半蔵門線・都営新宿線「九段下」駅から徒歩5分
+　千鳥ヶ淵公園：営団地下鉄半蔵門線「半蔵門」駅から徒歩5分]]></description>
+			<LookAt>
+				<longitude>139.7535570689226</longitude>
+				<latitude>35.69400680260812</latitude>
+				<altitude>0</altitude>
+				<heading>9.199379110680811e-09</heading>
+				<tilt>0</tilt>
+				<range>6791.193547656678</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7535570689226,35.69400680260812,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第62回大井どんたく夏まつり</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/3fa6f9b28f3d5a5011da0152d4af48ed.jpg?size=pict_nocut1040_1040"/>
+<br>
+●イベント名：第62回大井どんたく夏まつり
+<br>
+●場所：大井町駅前中央通り
+　<br>
+●日程：2016年8月27日（土）～8月28日（日）
+<br>
+●時間：12:00～21：00
+　<br>
+●問合せ：ＮＰＯまちづくり大井
+<br>
+●電話：03-3471-9740
+]]></description>
+			<LookAt>
+				<longitude>139.7349299620973</longitude>
+				<latitude>35.60622009341993</latitude>
+				<altitude>0</altitude>
+				<heading>2.196268424191002e-10</heading>
+				<tilt>0</tilt>
+				<range>1005.788663775867</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7349299620973,35.60622009341993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>原宿表参道元氣祭 スーパよさこい 2016</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/b3b127dca578664122f4629d452ec36c.jpg?size=pict_nocut1040_1040"/>
+<br>
+●イベント名：原宿表参道元氣祭 スーパよさこい 2016
+<br>
+●場所：原宿表参道／明治神宮／代々木公園／NHK前ケヤキ並木通り
+　<br>
+●日程：2016年8月27日(土)～28日(日)
+<br>
+●時間：27日 10：00～20：00/28日 ～17：30
+　<br>
+●問合せ：原宿表参道元氣祭スーパーよさこい事務局
+<br>
+●電話：03-3406-5572
+]]></description>
+			<LookAt>
+				<longitude>139.7102908783622</longitude>
+				<latitude>35.67160636175187</latitude>
+				<altitude>0</altitude>
+				<heading>-1.724322771948442e-08</heading>
+				<tilt>0</tilt>
+				<range>1694.023635273658</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7102908783622,35.67160636175188,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第14回日比谷公園 丸の内音頭大盆踊り大会</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/bbd7ca7f117de17b6451a273aae25b58.jpg?size=pict_nocut1040_1040"/>
+<br>
+●イベント名：第14回日比谷公園 丸の内音頭大盆踊り大会
+<br>
+●場所：日比谷公園大噴水周辺特設会場及び第二花壇芝生広場
+　<br>
+●日程：2016年8月26日（金）～8月27日（土）
+<br>
+●時間：18：00～21：00
+　<br>
+●問合せ：日比谷公園丸の内音頭大盆踊大会実行委員会事務局
+<br>
+●電話：03-3503-1561]]></description>
+			<LookAt>
+				<longitude>139.7563930970787</longitude>
+				<latitude>35.67450219897857</latitude>
+				<altitude>0</altitude>
+				<heading>-1.703641851243163e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000044947225</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7563930970787,35.67450219897857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>深川八幡祭り</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/a84bd547ab8e40dfb0421a55ad9c88d2.jpg?size=pict_nocut1040_1040"/>
+<br>
+●イベント名：深川八幡祭り
+<br>
+●場所：富岡八幡宮
+　<br>
+●日程：2016年8月12日（金）～8月15日（月）
+<br>
+●時間：9：00～20：00
+　<br>
+●問合せ：富岡八幡宮
+<br>
+●電話：03-3642-1315]]></description>
+			<LookAt>
+				<longitude>139.7970143410302</longitude>
+				<latitude>35.67671886096253</latitude>
+				<altitude>0</altitude>
+				<heading>-4.479709491091556e-09</heading>
+				<tilt>0</tilt>
+				<range>1019.396555335592</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7970143410302,35.67671886096253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第60回東京高円寺阿波おどり</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/6302b46bbea822cd8dc0648c5458940f.jpg?size=pict_nocut1040_1040"/>
+<br>
+●イベント名：第60回東京高円寺阿波おどり
+<br>
+●場所：JR高円寺駅・東京メトロ新高円寺駅 周辺南北商店街および高南通り
+　<br>
+●日程：2016年8月27日（土）～8月28日（日）
+<br>
+●時間：17:00～20：00
+　<br>
+●問合せ：NPO法人 東京高円寺阿波おどり振興協会
+
+]]></description>
+			<LookAt>
+				<longitude>139.6496569809935</longitude>
+				<latitude>35.70523976762216</latitude>
+				<altitude>0</altitude>
+				<heading>-1.595798783658779e-09</heading>
+				<tilt>0</tilt>
+				<range>1004.418577101067</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6496569809935,35.70523976762217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第51回中目黒夏祭り</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/dffc1f7b6562bc8ab99fbc4c03b8e67b.jpg?size=pict_nocut1040_1040"/>
+<br>
+●イベント名：第51回中目黒夏祭り
+<br>
+●場所：目黒銀座商店街・中目黒駅西銀座商店街・中目黒GT
+　<br>
+●日程：2016年8月6日・7日
+<br>
+●時間：17：30～20：30
+　<br>
+●問合せ：目黒銀座商店街協同組合
+<br>
+●電話：03-3712-2944　]]></description>
+			<LookAt>
+				<longitude>139.7032541983462</longitude>
+				<latitude>35.63786069625933</latitude>
+				<altitude>0</altitude>
+				<heading>-9.636031101789573e-10</heading>
+				<tilt>0</tilt>
+				<range>1690.672557458331</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7032541983462,35.63786069625933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第28回立川よいと祭り</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/22a861ea16702e6970ba2c5094517023.jpg?size=pict_nocut1040_1040"/>
+<br>
+●イベント名：第28回立川よいと祭り
+<br>
+●場所：曙町サンサンロード
+　<br>
+●日程：2016年8月6日
+<br>
+●時間：12：00～21：00
+　<br>
+●問合せ：立川よいと祭り実行委員会事務局　
+<br>
+●電話：042-526-1312　]]></description>
+			<LookAt>
+				<longitude>139.407843741648</longitude>
+				<latitude>35.71401412197497</latitude>
+				<altitude>0</altitude>
+				<heading>2.164137824687921e-08</heading>
+				<tilt>0</tilt>
+				<range>13527.3571139667</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.407843741648,35.71401412197497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2016新宿エイサーまつり</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/d6cf434b0a0cc478e34b264c751a23e7.jpg?size=pict_nocut1040_1040"/>
+<br>
+●イベント名：2016新宿エイサーまつり
+<br>
+●場所：新宿駅東／西口一帯
+　<br>
+●日程：2016年7月30日
+<br>
+●時間：12：00～20：00
+　<br>
+●問合せ：新宿エイサーまつり運営事務局
+<br>
+●電話：03-6681-4858]]></description>
+			<LookAt>
+				<longitude>139.7035532675056</longitude>
+				<latitude>35.69384024709905</latitude>
+				<altitude>0</altitude>
+				<heading>7.150805754371914e-07</heading>
+				<tilt>0</tilt>
+				<range>13516.39396091799</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7035532675056,35.69384024709906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第45回神楽坂まつり</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/7d8db6d357216514a811e9b1815fb071.jpg?size=pict_nocut1040_1040"/>
+<br>
+●イベント名：第45回神楽坂まつり
+<br>
+●場所：神楽坂通り商店会
+　<br>
+●日程：2016年7月27日～2016年7月30日
+<br>
+●時間：27日・28日　17:30～22:00
+            <br>           29日・30日　19：00～21：00
+　<br>
+●問合せ：NTTハローダイヤル
+<br>
+●電話：03-5777-8600]]></description>
+			<LookAt>
+				<longitude>139.7404636349812</longitude>
+				<latitude>35.70190140978109</latitude>
+				<altitude>0</altitude>
+				<heading>5.411961873775327e-09</heading>
+				<tilt>0</tilt>
+				<range>1005.598700174367</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7404636349812,35.70190140978109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第21回新橋こいち祭</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/66398439ad9bdca2c47f9bc33090b695.jpg?size=pict_nocut1040_1040"/>
+<br>
+●イベント名：第21回新橋こいち祭
+<br>
+●場所：新橋駅西口周辺
+　<br>
+●日程：2016年7月21日～2016年7月22日
+<br>
+●時間：12：00～21：00
+　<br>
+●問合せ：新橋こいち祭事務局
+<br>
+●電話：03-5537-6115]]></description>
+			<LookAt>
+				<longitude>139.7566098365783</longitude>
+				<latitude>35.66502302850676</latitude>
+				<altitude>0</altitude>
+				<heading>1.949651649189377e-07</heading>
+				<tilt>0</tilt>
+				<range>1690.623151180627</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7566098365783,35.66502302850676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2016麻布十番納涼まつり</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/86ab3dd55be37dd093545b79e959669c.jpg?size=pict_nocut1040_1040"/>
+<br>
+●イベント名：2016麻布十番納涼まつり
+<br>
+●場所：麻布十番商店街
+　<br>
+●日程：2016年8月27日～2016年8月28日
+<br>
+●時間：15：00～21：00
+　<br>
+●問合せ：麻布十番商店街振興組合
+<br>
+●電話：03-3451-5812]]></description>
+			<LookAt>
+				<longitude>139.733965935559</longitude>
+				<latitude>35.65653833262863</latitude>
+				<altitude>0</altitude>
+				<heading>-4.60428354852231e-08</heading>
+				<tilt>0</tilt>
+				<range>3423.147828634944</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.733965935559,35.65653833262863,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>隅田川花火大会</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/dfc1226425bdcf6f4094066a445ad3f7.jpg?size=pict_nocut1040_1040"/>
+<br>
+●イベント名：隅田川花火大会
+<br>
+●場所：第一会場／桜橋下流～言問橋上流
+　         第二会場／駒形橋下流～厩橋上流
+<br>
+●日程：2016年7月30日(土)
+<br>
+●時間：第一会場：19時05分～20時30分
+　         第二会場：19時30分～20時30分
+<br>
+●荒天時：7月31日(日)に順延
+　（両日共に実施できない場合は中止）
+<br>
+●問合せ：隅田川花火大会実行委員会事務局
+<br>
+●電話：03-5246-1111]]></description>
+			<LookAt>
+				<longitude>139.7444803480579</longitude>
+				<latitude>35.72576308021092</latitude>
+				<altitude>0</altitude>
+				<heading>-3.645925491068555e-08</heading>
+				<tilt>31.96845448408702</tilt>
+				<range>880.0345812319134</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7444803480579,35.72576308021092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>うえの夏祭り</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/e28a6d98e0ac01753a8d896569a008dc.jpg?size=pict_nocut1040_1040"/>
+<br>
+●イベント名：うえの夏祭り
+<br>
+●場所：台東区　不忍池・水上音楽堂・上野公園・不忍池畔など
+　<br>
+●日程：2016年7月9日～2016年8月7日
+<br>
+●時間：未定
+　<br>
+●問合せ：上野観光連盟
+<br>
+●電話：03-3833-0030]]></description>
+			<LookAt>
+				<longitude>139.7742182929824</longitude>
+				<latitude>35.70891829687068</latitude>
+				<altitude>0</altitude>
+				<heading>-4.09592467989808e-09</heading>
+				<tilt>0</tilt>
+				<range>3378.242504091506</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7742707903186,35.70907460084086,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>台湾フェスタ2016</name>
+			<description><![CDATA[<img src="http://img.gathery.recruit-lifestyle.co.jp/r/article/1146276819090402501/9e0d2dc0100507081fbcee6b9b02c529.jpg?size=pict_nocut1040_1040"/>
+
+<br>
+●イベント名：台湾フェスタ2016
+<br>
+●会場：代々木公園イベント広場
+<br>
+●日時：2016年7月30日～7月31日
+<br>
+●料金：入場無料]]></description>
+			<LookAt>
+				<longitude>139.6932597320517</longitude>
+				<latitude>35.67028097981045</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0009853745715165362</heading>
+				<tilt>0</tilt>
+				<range>1602.83256188055</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6949597777397,35.67183723601713,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
 </Document>
 </kml>
