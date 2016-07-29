@@ -73,6 +73,10 @@ a:hover{
 	margin:0px;
 }
 
+.cesium-infoBox-description img {
+	width: 100%;
+}
+
 .sample {
 	position:absolute;
 	height:100%;
