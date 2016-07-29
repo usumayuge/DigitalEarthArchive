@@ -131,6 +131,10 @@ a:hover{
 	width: 285px;
 }
 
+#c_place{
+	display: none;
+}
+
 #setsumei{
 	display: none;
 	position: absolute;
@@ -167,6 +171,7 @@ a:hover{
 }
 
 #slider {
+	display: none;
 	position: absolute;
 	width: 160px;
 	top: 70px;
